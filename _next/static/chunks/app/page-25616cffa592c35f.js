@@ -97,7 +97,7 @@
                                                     className: "sm:text-base text-sm font-semibold text-white flex items-center justify-center gap-2 px-5",
                                                     children: e ? (0, n.jsxs)(n.Fragment, {
                                                         children: [(0, n.jsx)("span", {
-                                                            children: (0, p.GM)(String(Number("0"))) || (0, n.jsx)("span", {
+                                                            children: (0, p.GM)(String("number" == typeof e ? e / 1e6 : e ? Number(e) / 1e6 : 0)) || (0, n.jsx)("span", {
                                                                 className: "inline-block h-4 w-40 animate-pulse rounded bg-gray-700"
                                                             })
                                                         }), (0, n.jsx)("span", {
@@ -131,7 +131,7 @@
                                                     children: "Total Supply"
                                                 }), (0, n.jsx)("span", {
                                                     className: "sm:text-base text-sm font-semibold text-white px-5",
-                                                    children: (0, p.GM) (String(Number("1000000000")))  || (0, n.jsx)("span", {
+                                                      children: (0, p.GM)(String((0, p.h_)(Number(t), 6))) || (0, n.jsx)("span", {
                                                         className: "inline-block h-4 w-40 animate-pulse rounded bg-gray-700"
                                                     })
                                                 })]
