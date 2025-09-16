@@ -82,7 +82,8 @@
                                         children: "GIGACAT DAO Staking"
                                     }), (0, n.jsx)("p", {
                                         className: "mt-5 sm:max-w-[547px] mx-auto text-sm sm:text-base md:text-xl text-gray-300",
-                                        children: "The first Cat DAO Staking on Binance Smart-chain"
+                                        children: "Contract Address: 0x317a4e30bc828b69b0beac8da894d335a80f1110"
+                                        
                                     }), (0, n.jsxs)("div", {
                                         className: "mt-[30px] mx-auto lg:flex-nowrap flex-wrap flex w-[90%] overflow-x-hidden sm:w-fit items-center gap-3 md:gap-4 justify-center border rounded-3xl border-[#FF3F3F] py-6 md:px-10 px-0 sm:px-6 bg-[#220808]",
                                         children: [(0, n.jsx)("div", {
