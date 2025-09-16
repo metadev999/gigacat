@@ -42,10 +42,10 @@
                                 className: "hidden sm:inline-block",
                                 children: " X (Twitter)"
                             }), (0, r.jsx)("span", {
-                                className: "relative h-7 w-7 sm:hidden flex justify-center items-center",
+                                className: "xlogo relative h-7 w-7 sm:hidden flex justify-center items-center",
                                 children: (0, r.jsx)(n.default, {
                                     alt: " ",
-                                    src: "/X.png",
+                                    srcSet: "/x.webp",
                                     objectFit: "contain",
                                     layout: "fill",
                                     objectPosition: "center",
@@ -59,10 +59,11 @@
                                 className: "hidden sm:inline-block",
                                 children: "Telegram"
                             }), (0, r.jsx)("span", {
-                                className: "relative h-7 w-7 sm:hidden flex justify-center items-center",
+                                className: "tglogo relative h-7 w-7 sm:hidden flex justify-center items-center",
                                 children: (0, r.jsx)(n.default, {
                                     alt: " ",
-                                    src: "/Telegram.png",
+                                    srcSet: "/Telegram.png",
+                                     src: "/Telegram.png",
                                     objectFit: "contain",
                                     layout: "fill",
                                     objectPosition: "center",
