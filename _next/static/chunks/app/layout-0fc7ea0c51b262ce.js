@@ -18,7 +18,7 @@
                 children: (0, r.jsxs)("div", {
                     className: "xl:max-w-6xl gap-3 w-full flex justify-between items-center",
                     children: [(0, r.jsxs)(a(), {
-                        href: "https://www.ocicat.club/",
+                        href: "https://www.gigacat.site/",
                         className: "flex items-center gap-1 relative sm:gap-2",
                         children: [(0, r.jsx)("div", {
                             className: "logohead flex items-center justify-center h-8 w-8 sm:h-12 sm:w-12 relative",

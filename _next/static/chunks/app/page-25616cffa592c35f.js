@@ -1521,11 +1521,11 @@
                                     children: [(0, n.jsx)(f, {
                                         className: "data-[state=active]:bg-red-500 data-[state=active]:text-white rounded-md transition",
                                         value: "coinA",
-                                        children: "Stake Ocicat."
+                                        children: "Stake Gigacat."
                                     }), (0, n.jsx)(f, {
                                         className: "data-[state=active]:bg-red-500 data-[state=active]:text-white rounded-md transition",
                                         value: "coinB",
-                                        children: "Stake Ocicat/BNB"
+                                        children: "Stake GCAT/BNB"
                                     })]
                                 }), (0, n.jsx)(x, {
                                     value: "coinA",
