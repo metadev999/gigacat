@@ -1538,7 +1538,7 @@
                                     value: "coinB",
                                     className: "mt-4",
                                     children: (0, n.jsx)(J, {
-                                        coinType: "OCICAT/BNB"
+                                        coinType: "GIGACAT/BNB"
                                     })
                                 })]
                             })
