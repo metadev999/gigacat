@@ -147,7 +147,7 @@
                                             }), (0, n.jsx)("span", {
                                                 children: "|"
                                             }), (0, n.jsxs)("span", {
-                                                children: [(0, p.GM)(String( "0")) || (0, n.jsx)("span", {
+                                               children: [(0, p.GM)(String((O / 1e6).toFixed(2))) || (0, n.jsx)("span", {
                                                     className: "inline-block h-4 w-40 animate-pulse rounded bg-gray-700"
                                                 }), " "]
                                             })]
