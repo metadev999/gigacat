@@ -97,7 +97,7 @@
                                                     className: "sm:text-base text-sm font-semibold text-white flex items-center justify-center gap-2 px-5",
                                                     children: e ? (0, n.jsxs)(n.Fragment, {
                                                         children: [(0, n.jsx)("span", {
-                                                            children: (0, p.GM)(String(Number("50"))) || (0, n.jsx)("span", {
+                                                            children: (0, p.GM)(String(Number("0"))) || (0, n.jsx)("span", {
                                                                 className: "inline-block h-4 w-40 animate-pulse rounded bg-gray-700"
                                                             })
                                                         }), (0, n.jsx)("span", {
@@ -147,7 +147,7 @@
                                             }), (0, n.jsx)("span", {
                                                 children: "|"
                                             }), (0, n.jsxs)("span", {
-                                                children: [(0, p.GM)(String((O / 1e6).toFixed(2))) || (0, n.jsx)("span", {
+                                                children: [(0, p.GM)(String( "0")) || (0, n.jsx)("span", {
                                                     className: "inline-block h-4 w-40 animate-pulse rounded bg-gray-700"
                                                 }), " "]
                                             })]
